@@ -1,22 +1,26 @@
-# nodejs-mysql sample app
+     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
+    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
+    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
+    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
+     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
+    ----------------------------------------------------------------- 
 
-This web app inserts fake data into a MySQL database.
 
-## How to build
+Hi there! Welcome to Cloud9 IDE!
 
-```
-git clone https://github.com/KonstantinDinev/nodejs-mysql.git
+To get you started, we included a small hello world application.
 
-npm install
+1) Open the hello-world.html file
 
-node app.js
+2) Click on the Preview button to open a live preview pane
 
-```
+3) Make some changes to the file, save, watch the preview, and have fun!
 
-# Dependencies
+Happy coding!
+The Cloud9 IDE team
 
-You need to have MySQL installed on your machine and replace the connection credentials in the app.js file
 
-For this sample app I used Cloud 9 
+## Support & Documentation
 
-https://c9.io
+Visit http://docs.c9.io for documentation, or http://support.c9.io for support.
+To watch some training videos, visit http://www.youtube.com/user/c9ide
