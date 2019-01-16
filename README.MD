@@ -1,6 +1,6 @@
 # nodejs-mysql sample app
 
-This web app inserts fake data into a MySQL database.
+This NodeJS App inserts fake data into a MySQL database.
 
 ## How to build
 
