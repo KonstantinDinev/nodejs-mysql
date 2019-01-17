@@ -1,22 +1,27 @@
-# nodejs-mysql sample app
+# NodeJs - Express - MySQL - EJS
+## Web-App
 
-This NodeJS App inserts fake data into a MySQL database.
+Simple web application with a web form to insert data to an existing MySQL database
 
-## How to build
 
-```
-git clone https://github.com/KonstantinDinev/nodejs-mysql.git
-
+### Populate random data in the database
+``` navigate to the root directory and type:
 npm install
 
 node app.js
-
 ```
 
-# Dependencies
+You will get 500 fake users
 
-You need to have MySQL installed on your machine and replace the connection credentials in the app.js file
+### To start the web-app
+```
+navigate to the JoinUs folder and then type:
 
-For this sample app I used Cloud 9 
+npm install
 
-https://c9.io
+node server.js
+```
+
+Open a browser and type:
+
+```localhost:8080```

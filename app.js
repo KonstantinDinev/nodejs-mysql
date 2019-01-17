@@ -30,7 +30,7 @@ var end_result = connection.query(insertQuery, [data], function(err, result) {
 //console.log(end_result.sql);
 
 let q = `SELECT 
-            DATE_FORMAT(created_at, "%m-%D-%Y") AS created_at, 
+            DATE_FORMAT(created_at, "%D-%M-%Y") AS created_at, 
             email 
         FROM users 
         ORDER BY created_at 

@@ -9,6 +9,7 @@
   "author": "Konst",
   "license": "ISC",
   "dependencies": {
+    "ejs": "^2.6.1",
     "faker": "^4.1.0",
     "mysql": "^2.16.0"
   }
